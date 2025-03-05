@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sourav Suman Pradhan 
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning cse(AIML)
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on companies 
 - 📫  You can reach me through the help of Linkedin 
 - 😄 Pronouns: ...
